@@ -7,3 +7,26 @@
 .space {
     padding: 2%;
 }
+
+.mat-card-live {
+    border        : 1px solid #cfd8dc;
+    border-radius : 4x 3px 6px / 2px 4px;
+    padding-top   : 10px;
+    padding-left  : 0.5%;
+    padding-right : 0.5%;
+    padding-bottom: 0%;
+    margin        : 5px;
+}
+
+.mat-card-title-live{
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 15px;
+    margin-bottom:0px;
+    min-height: 70px;
+    }
+
+    .match-chip-date{
+        background-color: #90CAF9 !important;
+        color:black !important
+        }
