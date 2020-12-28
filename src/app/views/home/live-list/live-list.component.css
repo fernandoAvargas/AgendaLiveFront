@@ -28,5 +28,6 @@
 
     .match-chip-date{
         background-color: #90CAF9 !important;
-        color:black !important
+        color:black !important;
+        border-radius : 10px;
         }

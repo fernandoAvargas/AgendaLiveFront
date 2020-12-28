@@ -1,6 +1,6 @@
 <mat-tab-group style="padding-top: 40px;padding-left: 2%;padding-right: 2%;">
     <mat-tab label="Próximas">
-        <div fxLayout="row wrap" fxLayoutAlign="start center" style="padding: 2%;">
+        <div fxLayout="row wrap" fxLayoutAlign="center center" style="padding: 2%;">
             <ng-container *ngFor="let live of livesNext" style="margin:0.5%;">
                 <mat-card class="mat-card-live" fxFlex="0 1 calc(33.3% - 11px)" fxFlex.lt-md="0 1 calc(50% - 11px)"
                     fxFlex.lt-sm="100%">
@@ -8,7 +8,7 @@
                         <div class="row">
                             <p>
                                 <span style="font-size: 0.9rem;" fxFlex="70"
-                                    fxLayoutAlign="start center">{{live.liveName}}</span>
+                                    fxLayoutAlign="center center">{{live.liveName}}</span>
                                 <span fxFlex></span>
                                 <mat-chip class="match-chip-date" fxFlex="25"
                                 fxLayoutAlign="center center">
@@ -33,7 +33,7 @@
         </div>
     </mat-tab>
     <mat-tab label="Realizadas">
-        <div fxLayout="row wrap" fxLayoutAlign="start center" style="padding: 2%;">
+        <div fxLayout="row wrap" fxLayoutAlign="center center" style="padding: 2%;">
             <ng-container *ngFor="let live of livesPrevious" style="margin:0.5%;">
                 <mat-card class="mat-card-live" fxFlex="0 1 calc(33.3% - 11px)" fxFlex.lt-md="0 1 calc(50% - 11px)"
                     fxFlex.lt-sm="100%">
@@ -41,7 +41,7 @@
                         <div class="row">
                             <p>
                                 <span style="font-size: 0.9rem;" fxFlex="70"
-                                    fxLayoutAlign="start center">{{live.liveName}}</span>
+                                    fxLayoutAlign="center center">{{live.liveName}}</span>
                                 <span fxFlex></span>
                                 <mat-chip class="match-chip-date" fxFlex="25"
                                 fxLayoutAlign="center center">
