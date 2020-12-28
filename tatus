@@ -1,0 +1,53 @@
+[33mcommit 0d76d71bcdfa12159c13e1f1f4c259b4d0a79139[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/development[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: fernandoAvargas <fernando.avargas.fv@gmail.com>
+Date:   Mon Dec 28 02:04:13 2020 -0300
+
+    Conclusão do curso
+
+[33mcommit 084f1c035388736b8c3a8f8d29516256e3d357a3[m
+Author: fernandoAvargas <fernando.avargas.fv@gmail.com>
+Date:   Sun Dec 27 23:58:43 2020 -0300
+
+    Criar formulário para adicionar e consumir endpoint de criação de lives
+
+[33mcommit d525c90b702d23ed96cf958d9fe01402b1857bd3[m
+Author: fernandoAvargas <fernando.avargas.fv@gmail.com>
+Date:   Wed Dec 23 06:52:09 2020 -0300
+
+    Continuação da estilização, pipe transform date e ajustes
+
+[33mcommit 49069258a222aea1c03a3a9efc4b55e0c7ef3acf[m
+Author: fernandoAvargas <fernando.avargas.fv@gmail.com>
+Date:   Wed Dec 23 00:34:39 2020 -0300
+
+    Consumir o endpoint de listagem de lives da api AgendaLiveBack
+
+[33mcommit 1a9e12d398e9aefb43776bbe6c6232ef09ab7aed[m
+Author: fernandoAvargas <fernando.avargas.fv@gmail.com>
+Date:   Sat Dec 19 21:04:28 2020 -0300
+
+    Responsividade e FelxGrid
+
+[33mcommit c0afab5473e4774cf27de6e37bdc6882d1b237a8[m
+Author: fernandoAvargas <fernando.avargas.fv@gmail.com>
+Date:   Sat Dec 19 02:27:34 2020 -0300
+
+    Segundo componente para listagem e início da estilização
+
+[33mcommit c06a764d747d05efa205cc14a7ac62d27736f4a6[m
+Author: fernandoAvargas <fernando.avargas.fv@gmail.com>
+Date:   Sat Dec 19 01:03:20 2020 -0300
+
+    primeiro component
+
+[33mcommit f31f7382040aa4f0824b33229d9ba85c3a89024a[m
+Author: fernandoAvargas <fernando.avargas.fv@gmail.com>
+Date:   Sat Dec 19 00:26:01 2020 -0300
+
+    Instalação do material
+
+[33mcommit de4f066d04e0c155e4a2f87d37c2c5de6daa1ac6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: MichelliBrito <michellidibrito@gmail.com>
+Date:   Fri Dec 18 23:53:34 2020 -0300
+
+    Initial - Arquiteta/desenvolvedora Michelli Brito
